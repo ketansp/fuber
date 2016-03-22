@@ -1,0 +1,17 @@
+{
+	"name": "fuber",
+	"description": "fuber - taxi hailing app",
+	"version": "1.0.0",
+	"author": {
+		"name": "Ketan Patil",
+		"email": "100.percent.ketan@gmail.com",
+		"url": "http://linkedin.com/in/ketansp"
+	},
+	"main": "server.js",
+	"dependencies": {
+		"body-parser": "latest",
+		"express": "latest",
+		"method-override": "latest",
+		"mysql": "latest"
+	}
+}
